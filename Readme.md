@@ -1,3 +1,3 @@
-Test line 1 -Local master change
+Test line 1 -resolved conflict
 # Hello tester
 Branch 1 change
